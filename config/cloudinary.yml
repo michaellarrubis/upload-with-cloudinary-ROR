@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dblngbxiy
+  api_key: '369415494213964'
+  api_secret: gbpHLP2_03b_-6RFbMvj7uk_JH0
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dblngbxiy
+  api_key: '369415494213964'
+  api_secret: gbpHLP2_03b_-6RFbMvj7uk_JH0
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dblngbxiy
+  api_key: '369415494213964'
+  api_secret: gbpHLP2_03b_-6RFbMvj7uk_JH0
+  enhance_image_tag: true
+  static_image_support: false
